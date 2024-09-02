@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 "# desserts_shop" 
 "# desserts_shop2" 
 "# desserts" 
+"# desserts" 
